@@ -1,0 +1,9 @@
+body {
+  background: repeating-linear-gradient(
+    -65deg,
+    #b06edd,
+    #b06edd,
+    #111
+  );
+  background-attachment: fixed;
+}
