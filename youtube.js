@@ -21,7 +21,7 @@
   }
 
   var player;
-  var videoArray = ['bkXxQL-nyQw', 'E5kKUtTX0yU', 'mQChJh9wQXM'];
+  var videoArray = ['LOLE1YE_oFQ', 'lP53ypyiqyM'];
 
   videoArray = shuffle(videoArray);
 
